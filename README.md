@@ -22,7 +22,6 @@ This project aims to classify human facial expressions into different emotions u
 ---
 
 ## 📂 Project Structure  
-
 📁 Facial-Emotion-Recognition
 │── 📂 dataset/ # Facial images dataset
 │── 📂 models/ # Saved trained models
@@ -78,5 +77,7 @@ Abhishek Yadav
 
 📌 Connect with me:
 🔗 GitHub
+
 🔗 LinkedIn
+
 🔗 Portfolio
