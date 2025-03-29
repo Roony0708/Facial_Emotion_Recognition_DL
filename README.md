@@ -61,11 +61,7 @@ This project aims to classify human facial expressions into different emotions u
 2️⃣ Preprocessed and passed through the trained deep learning model.  
 3️⃣ Displays the detected emotion in real-time on the screen.  
 
-### 🛠️ **How to Run the Real-Time App?**  
 
-🔹 **Install dependencies:**  
-```bash
-pip install -r requirements.txt
 🔮 Future Improvements
 🚀 Improve accuracy by using a larger and more diverse dataset.
 🚀 Deploy on edge devices for real-time, low-latency applications.
